@@ -1,0 +1,7 @@
+This module focussed on:
+1) Logistic Regression
+2) Discriminative classifiers
+3) Evaluation methods
+4) Object Oriented Programming
+
+The file upload is the end product of the assignment and doesn't yet include workings.
