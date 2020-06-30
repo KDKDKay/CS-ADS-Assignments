@@ -1,0 +1,5 @@
+This module focussed on:
+1) EDA with pandas
+2) preprocessing
+3) linear regression
+4) pca
