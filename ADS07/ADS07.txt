@@ -1,0 +1,9 @@
+This module focussed on:
+1) Ensembles
+2) Random Forest
+3) boosting
+4) stacking
+5) Multiclass classification
+6) SVM
+
+Assignment score 94%
