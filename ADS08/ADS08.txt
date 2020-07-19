@@ -1,0 +1,2 @@
+This module focussed on neural networks including CNNs and RNNs
+Assignment score 99%
